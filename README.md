@@ -109,6 +109,6 @@ Finance-Analysis-Dashboard/
 
 Vikash Kumar
 💼 Aspiring Data Analyst
-- 🛠 Skills: Power BI | SQL | Excel | Python
+- 🛠 Skills: Power BI | SQL | Excel 
 
 ⭐ If you found this project useful, please consider giving it a star!

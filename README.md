@@ -78,19 +78,6 @@ The dashboard was designed to address the following business challenges:
 
 ---
 
-## 📂 Repository Structure
-
-```text
-Finance-Analysis-Dashboard/
-│── Finance Analysis.pbix
-│── Dataset/
-│── Images/
-│── README.md
-│── LICENSE
-```
-
----
-
 ## 🚀 Skills Demonstrated
 
 - Data Cleaning
